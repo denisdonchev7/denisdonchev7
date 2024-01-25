@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Donchev</h1>
 <h3 align="center">Graduated Manual QA | Automation QA Engineer Student</h3>
 
-- 🌱 I’m currently learning **I’m currently learning Automation QA courses.**
+- 🌱 I’m currently learning **Automation QA courses.**
 
 - 📫 How to reach me **denisdonchev6@gmail.com**
 
